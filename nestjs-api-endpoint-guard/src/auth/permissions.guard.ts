@@ -10,7 +10,7 @@ import { Permit } from 'permitio';
 const permit = new Permit({
     pdp: "https://cloudpdp.api.permit.io",
     // your API Key
-    token: "permit_key_ILlNQIffvF39sp7bIFruzDVzfh8xBrm5Mw9JvyIYV8UEKE2GEs4ZUBoXZtJY3YKZcfKjmfQhrg2LqqxpaK0U1c",
+    token: "PERMIT_KEY_HERE",
 });
 
 @Injectable()
